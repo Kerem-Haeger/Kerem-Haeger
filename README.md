@@ -11,7 +11,7 @@ I'm currently completing a Diploma in Full Stack Software Development, where I'm
 - **Python:** Rapidly improving, focusing on backend and data-related tasks
 - **PostgreSQL:** Learning advanced database concepts
 
-### 👾 Projects
+### 👾 Projects I'm Proud Of
 
 - **Tetris:**  
   [Live Demo](https://tetris-kh-c29675af7f73.herokuapp.com/) | [Source Code](https://github.com/Kerem-Haeger/tetris)
