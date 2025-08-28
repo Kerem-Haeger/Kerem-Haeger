@@ -15,7 +15,7 @@ I'm currently completing a Diploma in Full Stack Software Development, where I'm
 
 - **Tetris:**  
   [Live Demo](https://tetris-kh-c29675af7f73.herokuapp.com/) | [Source Code](https://github.com/Kerem-Haeger/tetris)
-- **Dog Booking System:**
+- **Dog Booking System:**  
   [Live Demo](https://dog-booking-system-1eebcb797de9.herokuapp.com/) | [Source Code](https://github.com/Kerem-Haeger/dog_booking_system)
 - **Battleship:**  
   [Live Demo](https://kerem-haeger.github.io/battleship/) | [Source Code](https://github.com/Kerem-Haeger/battleship)
