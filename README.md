@@ -10,6 +10,7 @@ I'm currently completing a Diploma in Full Stack Software Development, where I'm
 - **JavaScript:** Comfortable with front-end frameworks and dynamic web apps
 - **Python:** Rapidly improving, focusing on backend and data-related tasks
 - **PostgreSQL:** Learning advanced database concepts
+- **Django:** Building robust backend systems and APIs, integrating with React and modern front-end frameworks to create seamless, full-stack web applications
 
 ### 👾 Projects I'm Proud Of
 
