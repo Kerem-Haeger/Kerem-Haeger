@@ -14,6 +14,8 @@ I'm currently completing a Diploma in Full Stack Software Development, where I'm
 
 ### 👾 Projects I'm Proud Of
 
+- **FilmHive:**  
+  [Live Demo](https://filmhive-85b95f07d5b8.herokuapp.com/) | [Source Code Frontend](https://github.com/Kerem-Haeger/filmhive_frontend) | [Source Code Backend](https://github.com/Kerem-Haeger/filmhive_backend)
 - **Tetris:**  
   [Live Demo](https://tetris-kh-c29675af7f73.herokuapp.com/) | [Source Code](https://github.com/Kerem-Haeger/tetris)
 - **Dog Booking System:**  
